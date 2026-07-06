@@ -40,6 +40,6 @@ Sharing my projects on GitHub since 8th grade
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,40:111111,70:0a0a0a,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,40:111111,70:0a0a0a,100:000000&height=120&section=footer&text=SOLVERAN&fontSize=30&fontColor=ff003c&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
