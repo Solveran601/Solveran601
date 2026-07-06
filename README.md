@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dzamalmagomedsaidov406-alt&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=333333)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Solveran601&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=333333)](https://git.io/streak-stats)
 
 </div>
 
@@ -29,35 +29,35 @@
 <td width="50%" valign="top">
 
 ```
-┌─────────────────────────────────────┐
-│  SYSTEM INFO                        │
-├─────────────────────────────────────┤
-│  alias:      Solveran               │
-│  location:   Russia                 │
-│  age:        14                     │
-│  status:     online                 │
-│  uptime:     since 2024             │
-├─────────────────────────────────────┤
-│  STACK                                │
-├─────────────────────────────────────┤
-│  > HTML5 .............. ready        │
-│  > CSS3 ............... ready        │
-│  > JavaScript ......... ready        │
-│  > Python ............. ready        │
-│  > Git ................ ready        │
-│  > Linux .............. ready        │
-├─────────────────────────────────────┤
-│  MISSION                              │
-├─────────────────────────────────────┤
-│  Build. Learn. Repeat.               │
-│  No limits. No fear.                 │
-└─────────────────────────────────────┘
++-----------------------------------+
+|  SYSTEM INFO                      |
++-----------------------------------+
+|  alias:      Solveran             |
+|  location:   Russia               |
+|  age:        14                   |
+|  status:     online               |
+|  uptime:     since 2024           |
++-----------------------------------+
+|  STACK                              |
++-----------------------------------+
+|  > HTML5 .............. ready      |
+|  > CSS3 ............... ready      |
+|  > JavaScript ......... ready      |
+|  > Python ............. ready      |
+|  > Git ................ ready      |
+|  > Linux .............. ready      |
++-----------------------------------+
+|  MISSION                            |
++-----------------------------------+
+|  Build. Learn. Repeat.             |
+|  No limits. No fear.               |
++-----------------------------------+
 ```
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dzamalmagomedsaidov406-alt&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=333333" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solveran601&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=ffffff&sideNums=ffffff&dates=666666&border=333333" width="100%"/>
 
 </td>
 </tr>
@@ -89,15 +89,15 @@
 ## <span style="color:#ff0000">> timeline.sys</span>
 
 ```
-[2024] ─────●───── 8th grade. Started coding.
-       │
-[2025] ─────●───── First real projects.
-       │
-[2026] ─────●───── Learning web dev & Python.
-       │
-[20??] ─────?───── ???
-       │
-[2074] ─────?───── Solveran v50.0.0
+[2024] -----*----- 8th grade. Started coding.
+       |
+[2025] -----*----- First real projects.
+       |
+[2026] -----*----- Learning web dev & Python.
+       |
+[20??] -----?----- ???
+       |
+[2074] -----?----- Solveran v50.0.0
 ```
 
 ---
@@ -110,12 +110,12 @@
 <tr>
 <td align="center" width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzamalmagomedsaidov406-alt&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=333333)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solveran601&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=333333)
 
 </td>
 <td align="center" width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzamalmagomedsaidov406-alt&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=333333)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solveran601&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=333333)
 
 </td>
 </tr>
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dzamalmagomedsaidov406-alt&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=000000&title_color=ff0000)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Solveran601&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=000000&title_color=ff0000)
 
 </div>
 
@@ -133,7 +133,7 @@
 
 ## <span style="color:#ff0000">> activity.map</span>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzamalmagomedsaidov406-alt&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solveran601&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true)
 
 ---
 
@@ -155,7 +155,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzamalmagomedsaidov406-alt)
+[![GitHub](https://img.shields.io/badge/Solveran-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Solveran601)
 
 </div>
 
@@ -165,7 +165,7 @@
 
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dzamalmagomedsaidov406-alt%2Fdzamalmagomedsaidov406-alt&countColor=%23ff0000&style=for-the-badge&label=VISITORS)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Solveran601%2FSolveran601&countColor=%23ff0000&style=for-the-badge&label=VISITORS)
 
 <br/>
 
