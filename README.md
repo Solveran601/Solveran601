@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c63ff,100:f50057&height=220&section=header&text=dzamalmagomedsaidov406-alt&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Developer%20|%20Student%20|%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c63ff,100:f50057&height=220&section=header&text=DejaVu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Developer%20|%20Student%20|%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -29,10 +29,10 @@
 <td width="50%" valign="top">
 
 ```yaml
-name: "Jamal"
-location: "Russia"
-education: "8th Grade"
-status: "Student & Developer"
+alias: "DejaVu"
+location: "Somewhere on Earth 🌍"
+education: "8th Grade Student"
+status: "Learning & Building"
 
 languages:
   - HTML5
@@ -48,9 +48,13 @@ tools:
 interests:
   - Web Development
   - Open Source
-  - Learning New Tech
+  - AI & Machine Learning
+  - Creating Cool Stuff
 
-motto: "Code. Learn. Repeat."
+philosophy:
+  - "Code is poetry"
+  - "Keep it simple"
+  - "Never stop learning"
 ```
 
 </td>
