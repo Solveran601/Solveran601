@@ -10,9 +10,15 @@
 
 Sharing my projects on GitHub since 8th grade
 
+**vibe coder — building the future**
 
+</div>
 
-Python · Go · C++ · Rust · JavaScript · SQLite
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,cpp,rust,js,sqlite&theme=dark&perline=8" alt="skills"/>
 
 </div>
 
