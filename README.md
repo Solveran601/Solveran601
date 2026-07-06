@@ -10,7 +10,7 @@
 
 Sharing my projects on GitHub since 8th grade
 
-**vibe coder — building the future**
+
 
 Python · Go · C++ · Rust · JavaScript · SQLite
 
