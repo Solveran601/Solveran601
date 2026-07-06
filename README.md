@@ -12,7 +12,7 @@ Sharing my projects on GitHub since 8th grade
 
 
 
-Python · Go · C++ · Rust · JavaScript · SQLite
+<img src="https://skillicons.dev/icons?i=python,go,cpp,rust,js,sqlite&theme=dark&perline=8" alt="skills"/>
 
 </div>
 
