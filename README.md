@@ -227,6 +227,12 @@
 
 <br/>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,40:111111,70:0a0a0a,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
