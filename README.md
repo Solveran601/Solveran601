@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c63ff,100:f50057&height=220&section=header&text=DejaVu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Developer%20|%20Student%20|%20Creator&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c63ff,100:f50057&height=220&section=header&text=Solveran&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Developer%20|%20Creator%20|%20Dreamer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -29,10 +29,10 @@
 <td width="50%" valign="top">
 
 ```yaml
-alias: "DejaVu"
+alias: "Solveran"
 location: "Somewhere on Earth 🌍"
-education: "8th Grade Student"
-status: "Learning & Building"
+age: "14-15"
+status: "Building & Learning"
 
 languages:
   - HTML5
