@@ -313,7 +313,7 @@ _</text>
 <circle cx="450" cy="140" r="7" fill="#ff003c" filter="url(#gi)" class="pc"/>
 <circle cx="450" cy="140" r="11" fill="none" stroke="#ff003c" stroke-width="0.8" opacity="0.5" class="pr" filter="url(#gr)"/>
 <circle cx="450" cy="140" r="35" fill="none" stroke="#ff003c" stroke-width="0.4" opacity="0.15" class="pr" filter="url(#gr)"/>
-<text x="450" y="146" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9" font-weight="bold" opacity="0.85" filter="url(#gs)">NX</text>
+<text x="450" y="146" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="9" font-weight="bold" opacity="0.85" filter="url(#gs)"></text>
 
 <!-- Core nodes layer 1 -->
 <circle cx="340" cy="80" r="5" fill="url(#ng)" filter="url(#gr)"/><circle cx="340" cy="80" r="2" fill="#ffffff" class="p"/>
@@ -564,7 +564,7 @@ _</text>
 <image href="https://skillicons.dev/icons?i=pytorch&amp;theme=dark" x="78" y="44" width="38" height="38"/>
 <image href="https://skillicons.dev/icons?i=opencv&amp;theme=dark" x="121" y="44" width="38" height="38"/>
 <image href="https://skillicons.dev/icons?i=linux&amp;theme=dark" x="35" y="88" width="38" height="38"/>
-<image href="https://skillicons.dev/icons?i=nginx&amp;theme=dark" x="78" y="88" width="38" height="38"/>
+<image href="https://skillicons.dev/icons?i=ngi&amp;theme=dark" x="78" y="88" width="38" height="38"/>
 <image href="https://skillicons.dev/icons?i=heroku&amp;theme=dark" x="121" y="88" width="38" height="38"/>
 </svg>
 </td>
