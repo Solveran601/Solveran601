@@ -20,8 +20,8 @@ Python · Go · C++ · Rust · JavaScript · SQLite
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Solveran601&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=ffffff&border_color=1a1a1a&ring_color=ff003c)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Solveran601&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff003c&text_color=ffffff&border_color=1a1a1a)
+<img src="https://github-readme-stats.vercel.app/api?username=Solveran601&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c&text_color=ffffff&border_color=1a1a1a&ring_color=ff003c&rank_icon=default&card_width=400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solveran601&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff003c&text_color=ffffff&border_color=1a1a1a&card_width=400" width="49%"/>
 
 </div>
 
