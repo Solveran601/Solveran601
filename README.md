@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:111111,100:ff003c&height=200&section=header&text=SOLVERAN&fontSize=50&fontColor=ff003c&fontAlignY=35&desc=%3E+welcome+to+my+space&descSize=14&descAlignY=52&animation=fadeIn" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <svg viewBox="0 0 900 300" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width:900px;">
   <defs>
     <radialGradient id="cg" cx="50%" cy="50%" r="50%">
@@ -146,8 +154,9 @@
   <circle cx="22" cy="45" r="2" fill="#ff003c" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1s" repeatCount="indefinite"/>
   </circle>
-  <text x="350" y="35" text-anchor="middle" fill="#bbbbbb" font-family="monospace" font-size="12" opacity="0.6">Started GitHub journey at 8th grade</text>
-  <text x="350" y="58" text-anchor="middle" fill="#ff003c" font-family="monospace" font-size="14" opacity="0.9">vibe coder — building the future</text>
+  <text x="350" y="30" text-anchor="middle" fill="#bbbbbb" font-family="monospace" font-size="12" opacity="0.6">Sharing my projects on GitHub since 8th grade</text>
+  <text x="350" y="52" text-anchor="middle" fill="#ff003c" font-family="monospace" font-size="14" opacity="0.9">vibe coder &mdash; building the future</text>
+  <text x="350" y="72" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10" opacity="0.5">Python &middot; Go &middot; C++ &middot; Rust &middot; JavaScript &middot; SQLite</text>
 </svg>
 
 </div>
@@ -172,11 +181,11 @@
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
 
 </div>
