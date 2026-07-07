@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Sharing my projects on GitHub since 8th grade
+building things with code
 
 
 
