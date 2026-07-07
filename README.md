@@ -8,7 +8,8 @@
 
 <div align="center">
 
-building software and exploring new technologies
+я изучаю программирование с 6 класса и в 8 классе решил перейти на GitHub.
+Больше всего меня затягивает машинное обучение.
 
 
 
