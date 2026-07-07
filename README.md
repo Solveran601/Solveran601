@@ -8,7 +8,7 @@
 
 <div align="center">
 
-building things with code
+crafting code
 
 
 
