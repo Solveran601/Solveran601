@@ -8,7 +8,7 @@
 
 <div align="center">
 
-crafting code
+building software and exploring new technologies
 
 
 
