@@ -13,7 +13,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,rust,js,sqlite&theme=dark&perline=8" alt="skills"/>
+<sub>═══════⟶</sub> <img src="https://skillicons.dev/icons?i=python,go,cpp,rust,js,sqlite&theme=dark&perline=8" alt="skills"/> <sub>⟵═══════</sub>
 <br/>
 <sub>это то чем я буду пользоваться на протяжении всего времени в основном</sub>
 
